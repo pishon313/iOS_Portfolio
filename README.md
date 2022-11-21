@@ -4,7 +4,8 @@ Jr iOS developer with about 1years work experience. Implementation and maintenan
 Furthermore, 3+ years of experience as an administrative assistant in automotive industry which would help to progress and communicate with other departments.
 
 
-YAP – Your Digital Banking Ap‪p
+Hiart - http://www.e-himart.co.kr/app/display/showDisplayShop?originReferrer=himartindex
+
 Himart is e-commerce platform application (Objective-C, MVC): Being built using Objectiv-C and Swift, offers larget survice not only appliances but also used items for sale to customer. 
 
 My Role
