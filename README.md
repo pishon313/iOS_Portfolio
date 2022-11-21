@@ -8,10 +8,12 @@ Furthermore, 3+ years of experience as an administrative assistant in automotive
 
 Himart is e-commerce platform application (Objective-C, MVC): Being built using Objectiv-C and Swift, offers larget survice not only appliances but also used items for sale to customer. 
 
-My Role \n
+My Role
+
 Entry iOS developer maintaining the app and communicating with mobile platform team, responding requirements and planning.
 
 Skills
+
   Objective-C
   Swift
   UI/UX 
