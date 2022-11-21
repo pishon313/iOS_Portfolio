@@ -14,8 +14,6 @@ Entry iOS developer maintaining the app and communicating with mobile platform t
 
 Skills
 
-  Objective-C
-  
-  Swift
-  
-  UI/UX 
+  Objective-C \
+  Swift \
+  UI/UX  \ 
