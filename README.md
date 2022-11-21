@@ -12,8 +12,8 @@ My Role
 
 Entry iOS developer maintaining the app and communicating with mobile platform team, responding requirements and planning.
 
-Skills
+Skills \
 
-  Objective-C \
-  Swift \
-  UI/UX  \ 
+   Objective-C \
+   Swift \
+   UI/UX
