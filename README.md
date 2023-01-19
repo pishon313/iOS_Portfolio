@@ -5,7 +5,7 @@ Furthermore, 3+ years of experience as an administrative assistant in automotive
 
 
 
-## [efine24](https://itunes.apple.com/kr/app/id1533191520?mt=8![Uploading image.png…]())
+## [efine24](https://apps.apple.com/kr/app/%EA%B5%90%ED%86%B5%EB%AF%BC%EC%9B%9024-%EC%9D%B4%ED%8C%8C%EC%9D%B8/id1533191520)
 
 Working on app for the National Police Agency. this app is designed for Korean drivers to check penalty charge, driver's license status.
 client: The National Police Agency _ Department of Transportation 
